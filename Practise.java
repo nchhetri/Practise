@@ -2,9 +2,9 @@
 
 public class Practise
 {
-	public void add()
+	public void sub()
 	{
-		System.out.println("add");
+		System.out.println("sub");
 	}
 	public static void main(String args[])
 	{
