@@ -1,3 +1,5 @@
+// git practise
+
 public class Practise
 {
 	public static void main(String args[])
@@ -17,6 +19,8 @@ public class Practise
 					System.out.println(a);
 					break;
 			}
+			System.out.println("Changes made");
 		}
 	}
 }
+
