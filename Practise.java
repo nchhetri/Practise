@@ -2,6 +2,10 @@
 
 public class Practise
 {
+	public void add()
+	{
+		System.out.println("add");
+	}
 	public static void main(String args[])
 	{
 		int choice;
@@ -19,7 +23,7 @@ public class Practise
 					System.out.println(a);
 					break;
 			}
-			System.out.println("Changes made");
+			System.out.println("Merge experiment"); // hello world
 		}
 	}
 }
